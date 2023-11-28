@@ -26,4 +26,4 @@ It also suffices to minimize this since this quantity is strictly positive witho
 
 ### 3. Implementation
 
-Just implemented based on these ideas.
+Just implemented based on these ideas. Here is the ChatGPT chat log: https://chat.openai.com/share/f39d9cc3-cce3-4995-8631-795156078b20.
