@@ -1,9 +1,4 @@
-# algorithms-and-experiments
-
-1. Linear regression with gradient descent in Python3.11. Please see the `linear-regression-gradient-descent` directory for writeup and 
-code.
-
-## Linear regression with gradient descent
+# Linear regression with gradient descent
 using chatgpt + python3.11
 
 ## writeup
