@@ -3,3 +3,8 @@ services:
     build: ./backend
     ports:
       - "8000:8000"
+
+  db-service:
+    build: ./db
+    ports:
+      - "33060:3306"
